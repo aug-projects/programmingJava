@@ -1,4 +1,4 @@
-# programmingJavaOne
+# Programming Language One: Java
 This repository contains code and resources related to the Programming Language One: Java repository.
 
 ## Contributing
